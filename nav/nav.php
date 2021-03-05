@@ -22,8 +22,6 @@
     color:#fff;
     padding:10px;
     margin-right:20px;
-    width:(100%/6);
-    float:left;
 }
 </style>
 </head>
@@ -37,5 +35,6 @@
 <li>Contact Us<i class="fas fa-id-card-alt"></i></li>
 </ul>
 </div>
+<h1>hello</h1>
 </body>
 </html>

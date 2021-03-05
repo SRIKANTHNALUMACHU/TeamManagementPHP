@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
 <title>Navbar</title>
 <style type="text/css">
 *{
@@ -20,17 +22,19 @@
     color:#fff;
     padding:10px;
     margin-right:20px;
+    width:(100%/6);
+    float:left;
 }
 </style>
 </head>
 <body>
 <div class='navbar'>
 <ul>
-<li>Home</li>
-<li>Teams</li>
-<li>Tasks</li>
-<li>Login</li>
-<li>Contact Us</li>
+<li>Home <i class="fas fa-home"></i></li>
+<li>Teams<i class="fas fa-users"></i></li>
+<li>Tasks<i class="fas fa-calendar"></i></li>
+<li>Login <i class="fas fa-sign-in-alt"></i></li>
+<li>Contact Us<i class="fas fa-id-card-alt"></i></li>
 </ul>
 </div>
 </body>

@@ -30,6 +30,7 @@
 <li>Teams</li>
 <li>Tasks</li>
 <li>Login</li>
+<li>Contact Us</li>
 </ul>
 </div>
 </body>

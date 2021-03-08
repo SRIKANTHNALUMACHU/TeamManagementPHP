@@ -16,25 +16,32 @@
 .navbar ul{
     list-style-type:none;
     text-align:center;
+    height:60px;
 }
 .navbar li{
     display:inline-block;
     color:#fff;
-    padding:10px;
-    margin-right:20px;
+    padding:15px;
+    margin-right:40px;
+
 }
+.navbar li a{
+    text-decoration:none;
+    display:block;
+    color:white;
+}
+
 </style>
 </head>
 <body>
 <div class='navbar'>
 <ul>
-<li>Home <i class="fas fa-home"></i></li>
-<li>Teams<i class="fas fa-users"></i></li>
-<li>Tasks<i class="fas fa-calendar"></i></li>
-<li>Login <i class="fas fa-sign-in-alt"></i></li>
-<li>Contact Us<i class="fas fa-id-card-alt"></i></li>
+<li>Home<a href="#"> <i class="fas fa-home"></i></li>
+<li>Teams<a href="#"><i class="fas fa-users"></i></li>
+<li>Tasks<a href="#"><i class="fas fa-calendar"></i></li>
+<li>Login <a href="#"><i class="fas fa-sign-in-alt"></i></li>
+<li>Contact Us<a href="#"><i class="fas fa-id-card-alt"></i></li>
 </ul>
 </div>
-<h1>hello</h1>
 </body>
 </html>

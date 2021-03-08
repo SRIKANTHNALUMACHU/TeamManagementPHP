@@ -4,7 +4,7 @@
 <title>login Page</title>
 <style type="text/css">
 body{
-    background-image:url("./image/login.jpg");
+    background-image:url("../image/login.jpg");
     background-color:#fff;
     align-items:center;
     font-family:sans-serif;
